@@ -1,4 +1,4 @@
-// Github:   https://github.com/finderski/Scripts/SWSolitaire.js
+// Github:   https://github.com/finderski/Scripts/blob/master/SWSolitaire.js
 
 /*global
    Campaign, sendChat, getObj, getAttrByName
