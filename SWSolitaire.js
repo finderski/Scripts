@@ -1,4 +1,4 @@
-// Github:   https://github.com/pelwer1/Deal-Init
+// Github:   https://github.com/finderski/Scripts/SWSolitaire.js
 
 /*global
    Campaign, sendChat, getObj, getAttrByName
